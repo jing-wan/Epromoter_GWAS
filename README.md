@@ -1,7 +1,7 @@
 # Epromoter GWAS analysis
 
 # Description
-
+This is the code of Epromoter GWAS paper. 
 
 # reference
 Comprehensive mapping of genetic variation at Epromoters reveals pleiotropic association with multiple disease traits.
