@@ -6,8 +6,6 @@ There is growing evidence that a wide range of human diseases and physiological 
 # Reference
 Comprehensive mapping of genetic variation at Epromoters reveals pleiotropic association with multiple disease traits.
 
-Authors
-
 Jing Wan1,2,#, Antoinette van Ouwerkerk1,2,#, Jean-Christophe Mouren1, Carla Heredia3, Lydie Pradel1,2, Benoit Ballester1, Jean-Christophe Andrau3, Salvatore Spicuglia1,2,*
  
 1Aix-Marseille University, INSERM, TAGC, UMR 1090, Marseille, France.
@@ -18,4 +16,8 @@ Jing Wan1,2,#, Antoinette van Ouwerkerk1,2,#, Jean-Christophe Mouren1, Carla Her
 
 #These authors contribute equally
 
-*Corresponding author: Salvatore Spicuglia (salvatore.spicuglia@inserm.fr)
+*Corresponding author: Salvatore Spicuglia
+
+# Contact
+Jing Wan (jing.wan@inserm.fr)
+Salvatore Spicuglia (salvatore.spicuglia@inserm.fr)
